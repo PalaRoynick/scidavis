@@ -18,6 +18,17 @@ GNU General Public License for more details.
 
 A copy of this license is provided in the file gpl.txt.
 
+## Local Fork Changes
+
+This fork of SciDAVis is made mainly for study purposes. It is also 
+to include some modifications as described in the 'future plans'    
+sections of the source code files.                                  
+
+All changes are licensed under the GNU General Public License v2,   
+as required by the original project.                                
+
+For more details, see the commit history or the specific files      
+modified.                                                           
 
 # Platforms
 
